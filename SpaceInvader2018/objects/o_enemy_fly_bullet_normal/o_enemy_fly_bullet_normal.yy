@@ -1,28 +1,28 @@
 {
-    "id": "e6bcc22c-7fd7-45a2-a62a-e137cf6044bd",
+    "id": "396f61e5-b0cb-4272-b599-201e8886c63c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_player",
+    "name": "o_enemy_fly_bullet_normal",
     "eventList": [
         {
-            "id": "155f35d4-b9b5-4574-8eb3-8d9c05252ec8",
+            "id": "39b81e93-ac8b-41ab-9ee2-4286d70d476e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "e6bcc22c-7fd7-45a2-a62a-e137cf6044bd"
+            "m_owner": "396f61e5-b0cb-4272-b599-201e8886c63c"
         },
         {
-            "id": "438d54e7-00df-41bc-b322-8cf5ce526559",
+            "id": "a7963a69-982e-4b66-a63a-ca48cc09effa",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "e6bcc22c-7fd7-45a2-a62a-e137cf6044bd"
+            "m_owner": "396f61e5-b0cb-4272-b599-201e8886c63c"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "40b203a0-5f73-4d9f-be7d-ea224387b225",
+    "spriteId": "0d6198ad-c92a-4922-8271-821283157b27",
     "visible": true
 }

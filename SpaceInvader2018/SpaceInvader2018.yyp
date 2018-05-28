@@ -39,11 +39,35 @@
             }
         },
         {
+            "Key": "0d6198ad-c92a-4922-8271-821283157b27",
+            "Value": {
+                "id": "d20f6372-9d53-44e0-a8f9-41a3b118d4c9",
+                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0faf5c6a-65a6-4c1f-a923-598ff6746e68",
             "Value": {
                 "id": "6fab30f0-dddd-4064-8548-e59223ea8f4c",
                 "resourcePath": "views\\0faf5c6a-65a6-4c1f-a923-598ff6746e68.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0fcdb92e-fcf3-4c0c-9629-6aafbe98243f",
+            "Value": {
+                "id": "f9798164-a66d-4242-b1f6-d01ea9d91877",
+                "resourcePath": "objects\\o_enemy\\o_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1a82f731-7884-4780-90c2-431895142f27",
+            "Value": {
+                "id": "bf49db92-c999-4877-85a7-5c68451c4b26",
+                "resourcePath": "sprites\\s_enemy_fly_normal\\s_enemy_fly_normal.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -68,6 +92,14 @@
                 "id": "b24208fa-3e61-47e8-bd56-e6ba04121ee4",
                 "resourcePath": "sprites\\s_player_bullet_normal\\s_player_bullet_normal.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "396f61e5-b0cb-4272-b599-201e8886c63c",
+            "Value": {
+                "id": "c9de7031-85c4-4041-b1b3-3f7e7101baa5",
+                "resourcePath": "objects\\o_enemy_fly_bullet_normal\\o_enemy_fly_bullet_normal.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -100,6 +132,14 @@
                 "id": "c1a8f0b6-2910-43e5-b54f-0ae6dc02127c",
                 "resourcePath": "views\\5de71136-b15d-4ffe-bc17-9a6ae48fba4a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "61d8f4cf-b703-428e-a1ad-ede569c83488",
+            "Value": {
+                "id": "d081db48-c666-4df0-9dcd-4a4a27ccc86b",
+                "resourcePath": "sprites\\s_background_star\\s_background_star.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -220,6 +260,14 @@
                 "id": "58e294fd-2227-478d-b079-5eb6d984a23f",
                 "resourcePath": "views\\d1b66e68-513c-42e6-b82c-8973bd2efbfc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d7952991-e5cd-4c37-962e-4290cbf64aae",
+            "Value": {
+                "id": "ca756f93-a724-4ab8-b715-5f194a1573ab",
+                "resourcePath": "objects\\o_enemy_fly\\o_enemy_fly.yy",
+                "resourceType": "GMObject"
             }
         },
         {

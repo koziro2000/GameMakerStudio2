@@ -14,7 +14,8 @@ if (dir_factor != 0)
 	x += h_spd * dir_factor
 }
 
-if (key_fire != 0)
+if (key_fire != 0 && bullet_counter > 0)
 {
-	inst = instance_create_depth(x, y, -100, o_player_bullet_normal)
+	inst = instance_create_layer(x, y, "bullets", o_player_bullet_normal)
+	bullet_counter -= 1;
 }
